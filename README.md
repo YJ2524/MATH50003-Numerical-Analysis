@@ -3,13 +3,14 @@ Notes and course material for MATH50003 Numerical Analysis (2025–26)
 
 Lecturer: [Dr Sheehan Olver](https://www.ma.imperial.ac.uk/~solver/)
 
-Office hour: Thursdays 2pm, Huxley 6M40
+Office hour: Thursdays 2pm, Fridays 11am, Huxley 6M40
 
 ## [Notes](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/raw/main/notes/notes.pdf)
 
 ## Weekly Material
 
-Submit labs/problem sheets to <a href="mailto:maria.ricciuti18@imperial.ac.uk">GTAs</a> for informal marking/comments.
+Submit labs/problem sheets to <a href="mailto:maria.ricciuti18@imperial.ac.uk">GTAs</a> for informal marking/comments. Optional questions will not be
+directly examined in the computer-based or final exam, though they may give good examples of "unseen" problems.
 
 
 1. I.1 Rectangular Rule and I.2 Divided Differences
@@ -46,15 +47,19 @@ Submit labs/problem sheets to <a href="mailto:maria.ricciuti18@imperial.ac.uk">G
    - [Lab 6](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab6.ipynb)
    - [Sheet 6](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet6.pdf)
    - Optional Problems: Sheet 1, 4. Lab 1, 4.
+7. IV.1 Polynomial Interpolation and Regression and IV.2 Singular Value Decomposition and Matrix Compression
+   - [Lab 7](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/lab7.ipynb)
+   - [Sheet 7](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/sheets/sheet7.pdf)
+   - Optional Problems: Sheet 4–5. Lab 5–7.
 
 ## Revision
 
-1. Revision Lab
+1. [Revision Lab](https://github.com/Imperial-MATH50003/MATH50003NumericalAnalysis/blob/main/labs/labr.ipynb)
 2. Revision Sheet
 
 ## Assessment
 
-2. Mock computer-based exam
+2. Mock computer-based exam (4 March 2026, 11am)
 2. Computer-based exam (1 hour, 13 March 2026, 11am)
 5. Final exam (pen-and-paper, 80% of term mark)
 
